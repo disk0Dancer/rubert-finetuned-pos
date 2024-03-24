@@ -1,0 +1,4 @@
+gradio
+requests
+pytest
+python-dotenv

@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+
+  gradio-app:
+    container_name: gradio_container
+    build: ./
+    ports:
+      - "80:7680"
+
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 4G
+
