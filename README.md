@@ -31,7 +31,7 @@
 
 **Head:** Leonid Aleksandrovich Mylnikov
 
-**Keywords:** particle marking, morphological analysis of word forms, natural language processing.
+**Keywords:** part of speech tagging, morphological analysis of word forms, natural language processing.
 
 
 ## Content Information
